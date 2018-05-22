@@ -1,2 +1,2 @@
-# mbran-umbraco-starter-kit
-An Umbraco CMS starter kit
+# mbran-umbraco-starter-kit-core
+Core library for MBran Umbraco Starter Kit package
